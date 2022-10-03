@@ -1,6 +1,6 @@
 html,
 body {
-  background: #04a575 ;  
+  background: rgba(39, 1, 255, 0.351) ;  
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu,
@@ -14,13 +14,13 @@ body {
 }
 
 a {
-  color: #04a575;
+  color: #e4e4e4;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
-  color: rgb(15, 194, 15);
+  color: rgb(3, 14, 61);
 }
 
 img {
